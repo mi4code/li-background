@@ -1,7 +1,7 @@
 # li-background
 HTML background for wlroots based desktops and KDE
 
-<video src="https://github.com/mi4code/li-background/assets/114027049/da056a4d-9e9d-4602-bfff-3ede21785c7a"></video>
+![demo](https://github.com/mi4code/li-background/assets/114027049/5a66898b-625e-461e-b64c-163459ab2861)
 
 
 ## Compilation / Instalation:
